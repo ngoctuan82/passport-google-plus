@@ -1,5 +1,5 @@
 {
-  "name": "passport-google-plus",
+  "name": "@ngoctuan/passport-google-plus",
   "description": "Passport strategy for using G+ Sign-In",
   "contributors": [
     {
